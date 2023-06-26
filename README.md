@@ -1,5 +1,7 @@
 # Blog-website-using-html-CSS
 
+Demo of Blog page: http://demos1.infovillage.net/bhavana/frontend/Blog/blog.html
+
 Welcome to the Food Blogger's Website, an exquisite online destination for all food enthusiasts! Crafted with HTML and CSS, this website is a testament to the fusion of technology and culinary art. With its attractive functionalities and captivating aesthetics, it promises an immersive experience that will leave visitors craving for more.
 
 Designed to be responsive, this website ensures a seamless browsing experience across various devices, including desktops, tablets, and smartphones. Whether you're exploring the latest food trends or searching for delectable recipes, this website effortlessly adapts to your screen size, offering optimal readability and navigation.
